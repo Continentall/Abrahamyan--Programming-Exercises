@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Абрамян Решение сборника С++", "Абрамян Решение сборника С++\Абрамян Решение сборника С++.vcxproj", "{2757F89B-F7C3-470C-911D-B77C55F56565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2757F89B-F7C3-470C-911D-B77C55F56565}.Debug|x64.ActiveCfg = Debug|x64
+		{2757F89B-F7C3-470C-911D-B77C55F56565}.Debug|x64.Build.0 = Debug|x64
+		{2757F89B-F7C3-470C-911D-B77C55F56565}.Debug|x86.ActiveCfg = Debug|Win32
+		{2757F89B-F7C3-470C-911D-B77C55F56565}.Debug|x86.Build.0 = Debug|Win32
+		{2757F89B-F7C3-470C-911D-B77C55F56565}.Release|x64.ActiveCfg = Release|x64
+		{2757F89B-F7C3-470C-911D-B77C55F56565}.Release|x64.Build.0 = Release|x64
+		{2757F89B-F7C3-470C-911D-B77C55F56565}.Release|x86.ActiveCfg = Release|Win32
+		{2757F89B-F7C3-470C-911D-B77C55F56565}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C7CD8DC-8F66-4D35-8264-53E8BD6422EF}
+	EndGlobalSection
+EndGlobal
